@@ -1,3 +1,5 @@
+#import file name of each code, class woul be nice to create it once I understand how to plot them 
+
 import quicksort as qs
 import mergesort as ms
 import binary_tree as bt
